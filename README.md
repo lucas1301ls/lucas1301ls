@@ -1,16 +1,15 @@
-## Hi there 👋
+###  vindas ao meu perfil 🚲
 
-<!--
-**lucas1301ls/lucas1301ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://WWW.Alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utiliso esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vc entrar em contato comigo 
+
+familiasilva130108@gmail.com
+
+@luckas_0ll
+
+![](https://media1.tenor.com/m/cTNHiNckhfIAAAAC/minions-strong.gif)
